@@ -12,3 +12,7 @@ NEver gonna be deployed
 ##Introduction 
 
 This is a sample website
+
+###Copyright 
+
+Git.Practice Aditya 2020
