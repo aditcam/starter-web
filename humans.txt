@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Aditya Camarushy aditcam@gmail.com @Acamarushy
 
 # THANKS
 
