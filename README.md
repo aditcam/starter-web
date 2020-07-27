@@ -20,4 +20,4 @@ This is a sample website
 
 ###Copyright 
 
-Git.Practice Aditya 2020
+Git.Practice Aditya 2020 LIFETIME ACCESS
